@@ -12,5 +12,5 @@ This project analyzes Nba players performance and stats using Python and Power B
 - Individual players all time stats
 
 ## Visualizations
-[Dashboard on Power BI] in `/NBA dashboard/`
+[Dashboard on Power BI] in `/Nba dashboard/`
 
